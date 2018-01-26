@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_read"
+        android:icon="@drawable/ic_import_contacts_black_24dp"
+        android:title="@string/title_read" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/ic_chat_red_700_24dp"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_library_books_red_700_24dp"
+        android:title="@string/title_home" />
+
+
+</menu>
